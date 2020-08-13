@@ -1,0 +1,266 @@
+@media(min-width:992px ) and (max-width:1199px){
+	.row{
+		margin:0 15px;
+	}
+	html{
+		font-size: 59.5%;
+	}
+	header{
+		height: 80vh;
+	}
+	h2{
+		font-size: 3.5rem;
+	}
+	.box{
+		padding: 0;
+	}
+	h3{
+		font-size: 2.2rem;
+	}
+	.team-member {
+	    margin-top: 3rem;
+	    margin-bottom: 3.5rem;
+	    width: 20rem;
+	    height: 20rem;
+	}
+	.social-icon {
+	    margin-top: 3rem;
+	}
+	.social-icon ul li {
+	    margin: 0.2rem;
+	}
+
+	svg.radial-progress {
+	    max-width: 192px;
+	}
+
+	img.portfoilo-image {
+	    width: 95%;
+	    height: 25rem;
+	}
+
+	.client-photo {
+	    width: 95%;
+	    float: none;
+	    text-align: center;
+	}
+
+	.client-review{
+		width: 95%;
+	    float: none;
+	    text-align: center;
+	}
+
+	.contact-section form {
+	    width: 100%;
+	    margin-left:0;
+	}
+
+	
+
+}
+
+@media(min-width:768px ) and (max-width:991px ){
+	.row{
+		margin:0 14px;
+	}
+	.mobile-menu span{
+		display: block;
+	}
+	header{
+		height: 75vh;
+	}
+	.hero-text-box h1 {
+	    font-size: 3rem;
+	    color: #fff;
+	    overflow: hidden;
+	}
+	.main-nav{
+		display: none;
+	}
+	.span_1_of_4{
+		width: 49.2%;
+	}
+	.span_1_of_4:nth-child(3){
+		margin-left: 0;
+	}
+	html{
+		font-size: 58.5%;
+	}
+	h2{
+		font-size: 3rem;
+	}
+	h3{
+		font-size: 2rem;
+	}
+	h4{
+		font-size: 0;
+	}
+	.box{
+		padding: 3%;
+	}
+	.skill-section .box{
+		padding-left: 32px;
+		padding-right: 30px;
+	}
+	.span_1_of_2:nth-child(2){
+		margin-left: 0;
+	}
+
+	img.portfoilo-image {
+	    width: 100%;
+	    height: 25rem;
+	}
+
+	.client-photo {
+	    width: 80%;
+	    float: left;
+	    text-align: center;
+	}
+
+	.contact-section form {
+	    margin-top: 3rem;
+	    width: 100%;
+	    margin-left: 0;
+	}
+	.footer-logo{
+		display: none;
+	}
+
+	.footer-social{
+		display: none;
+	}
+	.footer-menu{
+		width:100%;
+		float: none;
+	}
+	
+}
+
+@media(min-width:576px ) and (max-width:767px ){
+	html{
+		font-size: 50.5%;
+	}
+	.row{
+		margin:0 15px;
+	}
+	.mobile-menu span{
+		display: block;
+	}
+	.main-nav{
+		display: none;
+	}
+	header{
+		height: 70vh;
+	}
+	h2{
+		font-size: 2.5rem;
+	}
+	h3{
+		font-size: 1.8rem;
+	}
+	h4{
+		font-size: 0;
+	}
+	.hero-text-box h1{
+		padding:5%;
+		font-size: 2.5rem;
+	}
+
+	.title-description {
+	    font-size: 1.8rem;
+	    width: 80%;
+	    margin-left: 10%;
+	    line-height: 3rem;
+	    color: #fff;
+	}
+	.box{
+		padding:0;
+	}
+
+	.span_1_of_4{
+		width: 49.2%;
+	}
+	.span_1_of_4:nth-child(3){
+		margin-left: 0;
+	}
+	.skill-section .box{
+		padding-left: 32px;
+		padding-right: 30px;
+
+	}
+	svg.radial-progress {
+	    max-width: 160px;
+	}
+
+	img.portfoilo-image {
+	    width: 100%;
+	    height: 20rem;
+	}
+	.client-photo {
+		    width: 100%;
+		    float: none;
+		    text-align: center;
+		}
+	.contact-section form {
+	    margin-top: 5rem;
+	    width: 100%;
+	    margin-left: 0;
+	}
+
+	.footer-logo{
+		display: none;
+	}
+	.footer-social{
+		display: none;
+	}
+	.footer-menu{
+		width:100%;
+		float: none;
+		text-align: center;
+	}
+
+}
+
+@media(min-width:320px) and (max-width:575px ){
+	html{
+		font-size: 45.5%;
+	}
+	.mobile-menu span{
+		display: block;
+	}
+
+	.span_1_of_4{
+		width: 100%;
+	}
+	.span_1_of_2{
+		width:100%;
+	}
+	.row{
+		margin:0 15px;
+	}
+	.main-nav{
+		display: none;
+	}
+	header{
+		height: 70vh;
+	}
+	.contact-section form {
+	    margin-top: 5rem;
+	    width: 100%;
+	    margin-left: 0;
+	}
+	.footer-logo{
+		display: none;
+	}
+	.footer-social{
+		display: none;
+	}
+	.footer-menu{
+		width:100%;
+		float: none;
+		text-align: center;
+	}
+
+
+}
